@@ -8,4 +8,15 @@
 
 ## 参与项目
 
-在提交你的作品到本项目中来之前，我们强烈建议你先浏览一下相关设定，
+在提交你的作品到本项目中来之前，我们强烈建议你先浏览一下[相关设定](https://github.com/uestc-msc/MSC-Idol-Project/blob/master/src/setup.md)
+
+**请注意，本 repo 遵循 CC-BY-NC 协议，如果您的作品想遵循其它协议，或保留版权，请在相应位置进行标明。**
+
+如果您是个人作者，我们建议您直接投稿给 电子科技大学微软学生俱乐部。
+
+如果您是高校微软学生俱乐部，我们建议您 Fork 后，提交到本校分支上，当作品完成后，提交一次 Pull Request 到 [总 repo](https://github.com/uestc-msc/MSC-Idol-Project/) 中来。
+
+我们建议文件位置遵循现有状态：
+- 绘画作品存放于 /pictures/*高校简称*/ 
+- 动画作品存放于 /animates/
+- 其它作品存放于 /others/
